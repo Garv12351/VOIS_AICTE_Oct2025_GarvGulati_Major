@@ -1,0 +1,63 @@
+Netflix Data Analysis Project Summary
+By Nidhin R - VOIS AICTE Oct2025 Major Project
+
+DATASET OVERVIEW:
+- Total Titles: 7,789
+- Date Range: 2008-2021
+- Columns: 11 attributes
+- Content Types: Movies and TV Shows
+
+KEY FINDINGS:
+- Movies: 5,379 titles (69.1%)
+- TV Shows: 2,410 titles (30.9%)
+- Peak Release Year: 2019 (2,137 titles)
+- Countries Represented: 77
+- Unique Genres: 514
+- Most Common Rating: TV-MA (2,865 titles)
+- Average Movie Duration: 99.3 minutes
+
+TOP 5 GENRES:
+1. International Movies: 2,437
+2. Dramas: 2,108
+3. Comedies: 1,472
+4. International TV Shows: 1,199
+5. Documentaries: 786
+
+TOP 5 COUNTRIES:
+1. United States: 3,298
+2. India: 990
+3. United Kingdom: 723
+4. Canada: 412
+5. France: 349
+
+ANALYSIS OUTPUTS:
+1. movies_vs_tvshows_chart.png
+2. top_genres_chart.png
+3. top_countries_chart.png
+4. rating_distribution_chart.png
+5. movie_duration_chart.png
+
+PROJECT OBJECTIVES COMPLETED:
+✓ Movies vs TV Shows distribution analysis
+✓ Genre popularity assessment
+✓ Geographic content contribution mapping
+✓ Content rating and duration insights
+✓ Professional data visualizations
+
+TECHNICAL IMPLEMENTATION:
+- Python programming language
+- Pandas for data manipulation
+- Matplotlib/Seaborn for visualization
+- Statistical analysis and trend identification
+- Clean, production-ready code
+
+REPOSITORY STRUCTURE:
+VOIS_AICTE_Oct2025_MajorProject_NidhinR/
+├── Netflix-Dataset.csv
+├── netflix_analysis.py
+├── netflix_colab_analysis.py
+├── requirements.txt
+├── README.md
+└── project_summary.txt
+
+ Author: Nidhin R
